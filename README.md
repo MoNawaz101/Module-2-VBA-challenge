@@ -4,7 +4,6 @@ Contents of repository
 
 1. Screenshoots of each of the 3 sheets in the workbook (Screenshot_Multiple_year_stock_data_2018, Screenshot_Multiple_year_stock_data_2019, Screenshot_Multiple_year_stock_data_2020)
 2. A VBA file exported from excel (StockSummaryVBAFile).
-3. The excel file containing the data and summary tables (Multiple_year_stock_data)
 
 
 Description of code
